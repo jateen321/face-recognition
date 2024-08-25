@@ -64,4 +64,4 @@ Store the downloaded dataset in the `./data/` directory.
 </div>
 
 ## Acknowledgment
-We would like to express my sincere gratitude to Anand Mishra, Assitant Professor, for this course project .
+We would like to express our sincere gratitude to Anand Mishra, Assitant Professor, for this course project .
