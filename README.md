@@ -24,8 +24,6 @@ $ pip install -r requirements.txt
 
 Store the downloaded dataset in the `./data/` directory.
 
-## Feel free to explore the [Demo Code](https://ykapil897.github.io/face-recognition/demo_code_prediction.html) directly.
-
 ## BibTex
 <div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0;">
     <pre>
